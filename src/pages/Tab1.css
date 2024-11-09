@@ -1,0 +1,91 @@
+General page ion-content {
+  --background: #e0f7fa;
+}
+
+Header styling .page-header {
+  --background: #0288d1;
+  --color: #ffffff;
+}
+
+.card-item {
+  --background: #bbdefb;
+  --border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-content {
+  --color: #ffffff !important;
+}
+
+ion-item {
+  --background: #000000;
+  --border-radius: 8px;
+}
+
+.edit-input {
+  --background: #b3e5fc;
+  --color: #000000 !important;
+  padding: 8px;
+}
+
+.add-button {
+  --background: #bcff04;
+  --background-hover: #69bd02;
+  --color: #ffffff;
+}
+
+ion-button {
+  --color: #ffffff;
+}
+
+ion-button[color="primary"] {
+  --background: #0288d1;
+  --background-hover: #02bd24;
+}
+
+ion-button[color="success"] {
+  --background: #4caf50;
+  --background-hover: #388e3c;
+}
+
+ion-label h2,
+ion-label p,
+ion-label {
+  color: #ffffff !important;
+}
+
+ion-icon {
+  color: #faf5f5;
+}
+
+.basura {
+  color: #066e19;
+}
+.AgregarIcon {
+  color: #000000;
+}
+
+.p {
+  color: #000000;
+}
+.ion-text-center {
+  color: #000000;
+}
+.textos {
+  color: #000000;
+}
+.item-label {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-title {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+.item-description {
+  font-size: 1em;
+  color: #666;
+}
